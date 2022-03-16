@@ -1,4 +1,4 @@
-# poll system app
+# Poll system app
 
 This is a project where you can create and vote your own polls. It's a FrontEnd app and data is only for visualization.
 The project was created following the [Svelte Tutorial for beginners](https://www.youtube.com/watch?v=zojEMeQGGHs&list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz7tO) at The Net Ninja channel on Youtube.
@@ -22,7 +22,7 @@ To create an optimised version of the app:
 npm run build
 ```
 
-### 🛠 Tools:
+## 🛠 Tools:
 
 - Svelte
 - JavaScript
